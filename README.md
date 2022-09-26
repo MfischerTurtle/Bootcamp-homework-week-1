@@ -8,7 +8,7 @@ Marketing agency wants a codebase that follows accessibility standards so that t
 
 ## View the structure of the HTML elements and follow a logical structure independent of styling and positioning.
 
-* This looked pretty spot on. Everything looks like it's in the right order and follows the styling of the web page.
+* Changed to match changes to HTML code after removing div elements. Everything looks like it's in the right order and follows the styling of the web page.
 
 ## Find the image elements and add accessible alt attributes to them.
 
@@ -17,7 +17,7 @@ Marketing agency wants a codebase that follows accessibility standards so that t
 
 ## Find and verify the heading attributes that they fall in sequential order.
 
-* Moved the link below the title.
+* Added like to seach engine organazition tab in html code. Also made sure that headin fall in sequential order
 
 ## Find and verify the title element has a concise, descriptive title.
 
